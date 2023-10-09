@@ -2,7 +2,7 @@
 
 CachiPy is a caching library specially designed for use with FastAPI. It allows you to easily cache API responses and improve the performance of your FastAPI applications.
 
-![CachiPy Logo](CachiPy\CachiPy.png)
+![CachiPy Logo](https://raw.githubusercontent.com/Ambar-06/CachiPy/main/CachiPy/CachiPy.png)
 
 ## Features
 
@@ -49,17 +49,17 @@ def calculate_factorial(n: int):
     }
 ```
 
-Screenshots
+## Screenshots
 ### Before Caching
-<img src='screenshots\uncached_fibonacci_20.png'>
-<img src='screenshots\uncached_fibonacci_20_second.png'>
-<img src='screenshots\uncached_fibonacci_25.png'>
+<img src='https://raw.githubusercontent.com/Ambar-06/CachiPy/main/screenshots/uncached_fibonacci_20.png'>
+<img src='https://raw.githubusercontent.com/Ambar-06/CachiPy/main/screenshots/uncached_fibonacci_20_second.png'>
+<img src='https://raw.githubusercontent.com/Ambar-06/CachiPy/main/screenshots/uncached_fibonacci_25.png'>
 
 ### After Caching
-<img src='screenshots\cached_factorial_250_second.png'>
-<img src='screenshots\cached_factorial_250.png'>
-<img src='screenshots\cached_fibonacci_300.png'>
-<img src='screenshots\cached_fibonacci_20.png'>
+<img src='https://raw.githubusercontent.com/Ambar-06/CachiPy/main/screenshots/cached_factorial_250.png'>
+<img src='https://raw.githubusercontent.com/Ambar-06/CachiPy/main/screenshots/cached_factorial_250_second.png'>
+<img src='https://raw.githubusercontent.com/Ambar-06/CachiPy/main/screenshots/cached_fibonacci_300.png'>
+<img src='https://raw.githubusercontent.com/Ambar-06/CachiPy/main/screenshots/cached_fibonacci_20.png'>
 
 ## License
 This library is released under the MIT License. See LICENSE for details.

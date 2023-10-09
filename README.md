@@ -2,7 +2,7 @@
 
 CachiPy is a caching library specially designed for use with FastAPI. It allows you to easily cache API responses and improve the performance of your FastAPI applications.
 
-![CachiPy Logo](CachiPy\CachiPy.png)
+<img src='CachiPy\CachiPy.png'>
 
 ## Features
 

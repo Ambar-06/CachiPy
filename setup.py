@@ -1,7 +1,4 @@
 from setuptools import setup
-import codecs
-import os
-
 
 VERSION = '0.0.1'
 DESCRIPTION = 'A caching library specially designed for FastAPI'

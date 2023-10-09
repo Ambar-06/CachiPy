@@ -1,8 +1,24 @@
+Metadata-Version: 2.1
+Name: CachiPy
+Version: 0.0.1
+Summary: A caching library specially designed for FastAPI
+Author: Ambar Rizvi
+Author-email: <brannstrom9911@gmail.com>
+Keywords: cache,caching,API response,API caching,FastAPI cache,FastAPI caching,fastapi cacher
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
 # CachiPy: A Caching Library for FastAPI
 
 CachiPy is a caching library specially designed for use with FastAPI. It allows you to easily cache API responses and improve the performance of your FastAPI applications.
 
-![CachiPy Logo](CachiPy\CachiPy.png)
+![CachiPy Logo](https://example.com/cachipy_logo.png)
 
 ## Features
 

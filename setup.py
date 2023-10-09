@@ -18,7 +18,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     py_modules=["CachiPy"],
     package_dir={'' : 'CachiPy'},
-    install_requires=['requests==2.31.0', 'typing==3.7.4.3'],
+    install_requires=[],
     keywords=['cache', 'caching', 'API response', 'API caching', 'FastAPI cache', 'FastAPI caching', 'fastapi cacher'],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
